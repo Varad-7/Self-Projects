@@ -1,20 +1,17 @@
 # My Self Projects Repository
 
-Welcome to my personal repository where I showcase three self projects that I've worked on. Feel free to explore the projects, and I hope you find them interesting!
+Hello and welcome to my Repo...
 
-## Project 1: [Project Name 1]
+## Project 1: [Covid-19 detection using CNN and other models ]
 
 ### Description
-Provide a brief description of the first project, including its purpose and features.
+I have used the x-ray's of chest having covid and normal and the dataset in used from Kaggel. I have used Tensorflow-Keras framework for building these convolutional neural networks 
 
 ### Technologies Used
 List the technologies and programming languages used in the project.
 
-### How to Run
-Provide instructions on how to run or use the project. Include any dependencies or prerequisites.
-
-### Screenshots or Demo
-If applicable, include screenshots or a link to a demo to showcase the project.
+### Pre-reqs
+Your device should have tensorflow, keras, and basic ML libraries 
 
 ## Project 2: [Project Name 2]
 
